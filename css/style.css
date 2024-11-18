@@ -53,10 +53,15 @@ h4 span {
 .intestazione{
     background-color:#21A9E4;
     color:white;
+    text-align:left;
 }
 
 .riga-celeste{
     background-color:#B1E6F2;
+}
+
+table {
+    border-collapse: collapse;
 }
 
 #potrebbero-interessarti h4 {
