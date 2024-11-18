@@ -19,8 +19,9 @@ body{
     width:150px;
 }
 
-.sottotitolo {
+.titolo-grigio {
     color:darkgrey;
+    font-weight:bold;
 }
 
 h5 span {
