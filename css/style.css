@@ -2,6 +2,10 @@
     margin:0;
 }
 
+body{
+    background-color:#FFFFFF;
+}
+
 #header {
     width: 100%;
     background-color:#4EA1FF;
@@ -14,3 +18,12 @@
     position:left;
     width:200px;
 }
+
+.sottotitolo {
+    color:darkgrey;
+}
+
+h5 span {
+    color:aqua;
+}
+
