@@ -9,7 +9,7 @@ main {
 
 #header {
     width: 100%;
-    height: 80px;
+    height: 90px;
     background-color:#4EA1FF;
     background-image:url(../img/pattern.png);
     background-size:contain;
@@ -17,7 +17,7 @@ main {
 }
 
 #logo{
-    width:150px;
+    width:170px;
     padding-top: 40px;
     padding-left: 5px;
 }
@@ -60,7 +60,8 @@ h4 span {
 }
 
 #potrebbero-interessarti h4 {
-    margin-top:20px;
+    margin-top:30px;
+    margin-bottom:20px;
 }
 
 #potrebbero-interessarti img {
@@ -71,6 +72,6 @@ h4 span {
     color:white;
     font-weight:bold;
     position:absolute;
-    margin-top:5px;
-    margin-left:5px;
+    margin-top:10px;
+    margin-left:10px;
 }
