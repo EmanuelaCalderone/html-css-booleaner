@@ -69,5 +69,8 @@ h4 span {
 
 .testo-immagine{
     color:white;
+    font-weight:bold;
     position:absolute;
+    margin-top:5px;
+    margin-left:5px;
 }
