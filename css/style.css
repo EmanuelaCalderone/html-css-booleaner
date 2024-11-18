@@ -26,7 +26,7 @@ h1{
     margin-bottom:0;
 }
 
-h5, h6 {
+h4, h5 {
     color:darkgrey;
     font-weight:bold;
     margin-top:0;
@@ -37,8 +37,8 @@ h5, h6 {
     margin-top:20px;
 }
 
-h5 span {
-    color:#66A4B8;
+h4 span {
+    color:#7FCBDE;
 }
 
 #didascalia{
@@ -59,8 +59,15 @@ h5 span {
     background-color:#B1E6F2;
 }
 
-#potrebbero-interessarti {
-    margin-top:10px;
+#potrebbero-interessarti h4 {
+    margin-top:20px;
 }
 
+#potrebbero-interessarti img {
+    width:200px;
+}
 
+.testo-immagine{
+    color:white;
+    position:absolute;
+}
