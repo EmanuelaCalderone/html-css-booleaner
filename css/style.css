@@ -1,10 +1,11 @@
 body{
     background-color:white;
-    margin:0;
+    margin: 0;
 }
 
 main {
-    margin-left:5px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 #header {
@@ -12,7 +13,7 @@ main {
     height: 90px;
     background-color:#4EA1FF;
     background-image:url(../img/pattern.png);
-    background-size:contain;
+    background-size:20% auto;
     background-repeat:repeat;
 }
 
@@ -72,7 +73,7 @@ table td {
 
 #potrebbero-interessarti h4 {
     margin-top:30px;
-    margin-bottom:20px;
+    margin-bottom:10px;
 }
 
 #potrebbero-interessarti img {
