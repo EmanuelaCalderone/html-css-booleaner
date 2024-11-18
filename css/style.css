@@ -17,11 +17,22 @@ body{
 
 #logo{
     width:150px;
+    padding-top: 40px;
+    padding-left: 5px;
+}
+
+h1{
+    margin-top:10px;
 }
 
 .titolo-grigio {
     color:darkgrey;
     font-weight:bold;
+    margin-bottom:10px;
+}
+
+p {
+    margin: 20px;
 }
 
 h5 span {
@@ -30,6 +41,11 @@ h5 span {
 
 #didascalia{
     font-size:12px;
+    margin-bottom: 10px;
+}
+
+#elenco{
+    margin:20px;
 }
 
 .evidenziato{
