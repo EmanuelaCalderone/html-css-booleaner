@@ -1,0 +1,16 @@
+*{
+    margin:0;
+}
+
+#header {
+    width: 100%;
+    background-color:#4EA1FF;
+    background-image:url(../img/pattern.png);
+    background-size:contain;
+    background-repeat:repeat;
+}
+
+#logo{
+    position:left;
+    width:200px;
+}
