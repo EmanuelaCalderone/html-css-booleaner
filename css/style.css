@@ -54,6 +54,7 @@ h4 span {
     background-color:#21A9E4;
     color:white;
     text-align:left;
+    width:33%;
 }
 
 .riga-celeste{
@@ -63,6 +64,11 @@ h4 span {
 table {
     border-collapse: collapse;
 }
+
+table td {
+    vertical-align:middle;
+}
+
 
 #potrebbero-interessarti h4 {
     margin-top:30px;
